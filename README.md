@@ -1,6 +1,6 @@
 Feladat
 
-Írj egy olyan programot ami mátrixként jeleníti meg a betűeket egymás mellet.
+Írj egy olyan programot ami mátrixként jeleníti meg a betűket egymás mellet.
 
 Megoldás
 
