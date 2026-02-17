@@ -7,7 +7,7 @@ def szoveg_kiiras(szo, ABC):
         print()
 
 hatter = input("Miből legyen a háttér? ")
-tinta = input("Miből legyen a betű? ")
+tinta = input("Miből legyen a tinta? ")
 szo = input("Mi legyen a szó? ")
 
 ABC = {
